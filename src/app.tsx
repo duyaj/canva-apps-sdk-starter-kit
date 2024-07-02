@@ -7,7 +7,7 @@ export const App = () => {
   const onClick = () => {
     addNativeElement({
       type: "TEXT",
-      children: ["Hello world!"],
+      children: ["Goodbye world!"],
     });
   };
 
